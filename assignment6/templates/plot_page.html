@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Plot Page</title>
+
+</head>
+
+<body>
+    <h1>
+        Welcome!
+    </h1>
+    <p>
+        This is a page for plotting some machine learning.
+    </p>
+    <hr>
+
+    <form>
+        {% for cat in posts %}
+        <input type="checkbox" value="{{ cat }}" name="catagory" > {{ cat }}
+        <br>
+        {% endfor %}
+        <br>
+        <input type="submit" value="Plot" name="Plot">
+        <!-- <input type="button" value="Plot" name="Plot" onclick="get_plot('diabetes.csv')"> -->
+    </form>
+
+    <a href="http://127.0.0.1:5000/help">Need Help?</a>
+</body>
+</html>

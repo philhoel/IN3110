@@ -1,0 +1,1004 @@
+Biologi sammendrag
+
+Cellebiologi
+Eukaryote celler
+Eukaryote celler er de cellene som danner alle flercellede organismer
+Den mest utbredte teorien om hvordan cellen ble til, er endosymbiose teorien.
+Den går ut på at en stor celle har spist en mindre celle, den mindre cellen har overlevd og derfor blitt en del av den store cellen
+Vi tar for oss to forskjellige celletyper
+Dyrecelle
+Plantecelle
+
+Dyrecelle
+Cellemembran (semipermeabel membran)
+Cellekjerne (styre senter, har DNA)
+Cytoskjellett (støtter opp cellen, fester organellene, transportvei)
+Ribosom (Proteinsyntese)
+Endoplasmatisk Retikulum (ER) – glatt og Ru (ribosomer på ru, prod. Fosfolipider på glatt)
+Golgiapparat (kjemisk merking av proteiner)
+Lysosom (bryter ned ødelagte organeller, store molekyler, døde mikroorganismer, ødelagte proteiner)
+Peroksisom (avgifter cellen, bryter ned giftstoffer og fettsyrer)
+Mitokondrium (danner ATP, Celleånding)
+Vakuole (noen)
+Cytosol (Væsken i cellen
+Plantecelle
+Plantecelle har mange av de samme, men ikke lysosom eller cellemembran
+Cellevegg (Vegg som støtter opp cellen)
+Plasmodesmata (kort transport i planteceller, lite hull mellom celleveggene)
+Kloroplast (fotosyntese)
+Vakuole (stive opp cellen, lagre næringsstoffer)
+Cellemembran
+Bygget opp av et dobbelt fosfolipidlag
+Semipermeabel
+Fosfolipidene er bygget opp med
+En polar ende
+Fosfor-molekyl
+Glyserol
+To fettsyrer
+Disse fosfolipidlagene ligger med fettsyrene mot hverandre
+Dette gjør at upolare molekyler kan gå rett igjennom, mens polare ikke kan det
+Noen polare kommer delvis igjennom, hvis de er små nok
+Eks vann
+O2
+Mellom fosfolipidlagene ligger det kolestrol
+Kolesterol hjelper til med fluiditeten i membranen
+Videre i cellemembranen finner vi også en del kanaler og transportproteiner
+De forskjellig kanalene deler seg inn i to forskjellige hovedgrupper
+Aktiv transport
+Passiv transport
+I den aktive transporten ione-pumpe
+En ione pumpe bruker ATP til å dytte ioner mot konsentrasjonsgradienten
+Symporter er delvis aktive, det skjer en aktiv transport av et stoff, og et annet stoff blir med, i symporter går de samme vei
+Antiporter gjør det samme som symporter, men stoffene går motsatt vei av hverandre
+Endocytose er en transport hvor membranen omslutter et molekyl, partikkel, væske eller annet og danner en vesikkel
+Eks hvite blodceller
+Eksocytose er når en vesikkel beveges mot cellemembranen, kobler seg sammen og tømmer innholdet ut av cellen
+Innenfor passiv transport har vi forskjellige ionekanaler
+Vi har lekkasjekanal, denne står alltid åpen
+Vi har reseptorkanal, den åpnes kun når det riktige reseptormolekylet fester seg til reseptoren
+Vi har spenningsregulerte kanaler, disse åpner seg etter en hvis elektrisk spennings nivå i cellemembranen (dette skjer f eks i nerveceller)
+Vi har bæreprotein
+Disse proteinene bærer over større molekyler, som glukose og aminosyrer
+Osmose
+Diffusjon av vann gjennom membranen
+Polare stoffer kommer vanligvis ikke gjennom membranen, men vann kommer delvis igjennom siden molekylene er så små
+Vi har også noe som heter akvaporiner, som er egne kanaler for å slippe inn større mengder vann (disse finner vi f eks i samlekanlen i nefronet)
+Det kommer også en del van inn gjennom lekkasjekanalene og andre kanaler når de åpner seg
+
+
+Nervesystemet
+
+Nerver
+Oppbygning
+Dendritter (danner synapse med aksonsenden til andre nerveceller)
+Cellekropp (hvor organellene ligger)
+Aksonhale/akson (strekker seg langt)
+Aksonsende (danner synapse med andre nerveceller, muskler eller kjertler)
+Gliaceller (hjelpeceller som hjelper til å isolere nervecellene, inneholder myelin)
+Flere nerveceller danner en bunt med aksoner, med vev rundt. Flere bunter danner én nerve.
+Kommunikasjon
+Kommuniserer med et aksjonspotensial
+Hvilepotensial på -70mV
+Positiv ladning utenfor og negativ ladning innenfor cellemembranen lager dette elektriske potensialet
+Cellene har forskjellige terskelverdier, vanlig med ca. -50mV
+Terskelverdi er grensen som sier om det skal skje et aksjonspotensial
+Når ladningen under terskelspenning skjer det ingenting, går den over skjer det et aksjonspotensial
+Det er få ionekanaler som er åpne og tar inn Na+ og i det den treffer terskelverdien er det nok spenning til at andre porter som åpnes av elektrisk spenning, åpner seg. Disse som åpner seg er spenningsregulerte ionekanaler.
+Når Na+ kommer inn, vil noe av dem flyte/vandre til sidene.
+Dette fører til en kjedereaksjon nedover cellen og det skjer et aksjonspotensial
+Rundt aksonet er det noen gliaceller med fettstoffet myelin
+Disse cellene isolerer ladningen og det kan kun diffundere inn Na+ i mellom disse gliacellene, altså hvor aksonhalen er <<naken>>
+Dette fører til at ladningen <<hopper>> nedover cellen og aksjonspotensialet går fortere
+120 m/s med gliaceller rundt
+2 m/s uten gliaceller
+Alle aksjonspotensialer er like, så forskjellige meldinger sendes med forskjellige frekvenser (antall aksjonspotensialer per sekund)
+Når aksjonspotensialet kommer til aksonsenden, treffer det en spenningsregulert ionekanal for K+ og for Ca2+
+Ionekanalene for K+ stopper aksjonspotensialet, mens Ca2+ signaliserer til vesikklene inni cellen at de skal slippe ut nevrotransmitterne, gjennom eksocytose.
+Nevrotransmitterene diffunderer kjapt over til den andre cellen, fordi synapsen er så kort.
+Her binder nevrotransmitterene seg til reseptorene i de reseptorstyrte ionekanalene og ionekanalene åpnes. 
+Avhengig av om det er riktig ionekanal vil det bli sendt et nytt aksjonspotensial
+Acetylkolin er stoffet som åpner Na+ ionekanalene
+Ionekanalene blir åpne så lenge acetylkolin sitter i reseptoren
+I synapsespalten er det et enzym som spalter acetylkolin til acetyl og kolin
+Både acetyl og kolin blir transportert tilbake til aksonenden ved endocytose
+I vesikler blir de bundet sammen igjen til acetylkolin og kan brukes på nytt
+Nervesystem
+SNS (SentralNerveSystemet)
+Ryggmarg
+Hjernen
+Det perifere nervesystemet
+Det sensoriske nervesystemet
+Består av sensornerveceller
+Ligger gjerne ytterst i kroppen
+Mange forskjellige typer:
+Mekanoreseptor
+Fotoreseptor
+Kjemoreseptor
+Det motoriske nervesystemet
+Viljestyrt
+Består av skjellettmuskler
+Det autonome nervesystemet
+Ikke viljestyrt
+Det sympatiske (ved aktivitet)
+Det parasympatiske (ved hvile)
+Sentralnervesystemet
+Består av hjernen og ryggmargen
+Hjernen
+Storhjernen
+To deler, bundet sammen av hjernebjelken
+Sensoriske sentre
+Venstre halvdel av storhjernen – høyre del av kroppen
+Høyre halvdel av storhjernen – venstre del av kroppen
+Styrer muskler (ikke finjusteringer)
+Bevissthet, intelligens og hukommelse
+Venstre – primært logikk, språk og analytisk tenkning
+Høyre – følelser, intuisjon, kreativitet
+Mellomhjernen
+Ligger midt i hjernen
+Talamus (Begrenser aksjonspotensialer til hjernen, hva som er viktig og ikke)
+Hypotalamus (Samordnet senter for en del av hormonsystemet og det perifere nervesystemet)
+Regulerer kroppstemp., tørste, appetitt, seksualadferd, aggresjon og søvn
+Hypofysen (hormonproduserende kjertel)
+Viktig koblingssenter mellom nervesystem og hormonsystem
+Lillehjernen
+Koordinasjon og finjustering av bevegelser
+Hjernestammen
+Forlengede margen og hjernebroen
+Binder ryggmargen sammen med hjernen
+Styrer livsviktige kroppsfunksjoner som pusting, hjerteaktivitet, blodtrykk og mange fordøyelsesfunksjoner
+Ansvarlig for kontroll av øyebevegelse, kroppsstilling og bevissthetsgrad
+Ryggmargen
+Bindeledd mellom hjernen og det perifere nervesystemet
+Det perifere nervesystemet
+Det sensoriske nervesystemet
+Grunnlaget for hvordan vi tolker og oppfatter omgivelsene rundt oss
+Informasjon som lyd, lys, temp., og kjemisk sans
+Hjernestammen – talamus – Storhjernebarken
+Informasjon om kroppenstilstand (blodtrykk, matmengde i tarm, ubalanse i ionekonsentrasjon)
+Hjernestammen – hypotalamus - Storhjernebarken
+Det motoriske nervesystemet
+Nervecellene går ut til skjellettmusklene
+Dette er musklene vi kan styre
+Signaler går fra motorisksenter i storhjernen, gjennom ryggmargen og til skjellettmusklene for å gi beskjed om å trekke seg sammen
+Det autonome nervesystemet
+Det autonome er det som styrer seg selv
+Autonom (gr.) – selvstyrende
+Deles inn i det sympatiske og det parasympatiske
+Sympatiske
+Brukes for aktivitet
+Beredskap
+Parasympatiske
+Brukes når kroppen er i hvile
+Refleks
+Automatiske sammentrekning av muskler
+Går ikke innom hjernen
+Eks: Forbrenning
+Sansecellene i hånden blir påvirket av flammene fra et stearinlys
+Aksjonspotensialer blir sendt i sensorisk nervecelle til ryggmargen
+Aksjonspotensialet blir overført fra sensorisk nervecelle, via ryggmargens egen nervecelle og til motorisk nervecelle
+Aksjonspotensialer blir sendt i den motoriske nervecellen til muskelen i armen
+Muskelen trekker seg sammen, og hånden trekkes vekk fra lyset
+Sensorisk nervecelle danner også synapser med nerveceller som leder aksjonspotensialer til hjernen. Dette er ikke med i selve refleksen
+Rusmidler/medikamenter
+Endorfiner
+Endorfiner er kroppens smertestillende. Når heroin, opium og morfin sine narkotiske stoffer slippes inn i kroppen, bindes de til reseptorer for endorfiner. De har derfor samme virkning. Hjernen svarer gjentatte doser med å redusere produksjonen av endorfiner. Derfor vil vedkommende være under mye smerte hvis de ikke får de narkotiske stoffende
+Serotonin
+Spiller en viktig rolle i regulering av humør, søvn, seksualitet og appetitt
+Ecstasy øker frigjøringen av serotonin. Bruk av ecstasy kan ødelegge nerveceller som frigjør serotonin og få varige personlighetsforstyrrelser.
+Dopamin
+Dopamin er belønnings- og motivasjonssystemet vårt.
+Det narkotiske stoffet kokain hindrer at dopamin blir fraktet med endocytose tilbake til aksonsenden. Dopamin effekten varer derfor lenger, fordi den fortsetter å sitte på reseptoren. Flere aksjonspotensialer blir derfor sendt etter hverandre. Cellen reduserer derfor antall reseptorer, så når effekten går av og dopamin går tilbake til utgangspunktet så vil det neste gang det skal slippes ut ikke være nok reseptorer til å lage et aksjonspotensial.
+GABA
+Virker hemmende på de nervecellene den danner synapse med
+Valium og GHB binder seg til disse reseptorene og gir samme effekt
+Psykiske lidelse
+Årsak er som oftest ubalanse i mengden nevrotransmittere i hjernen.
+Dopamin, serotonin og acetylkolin
+Sanser
+Vi har mange flere sanser enn de 5 vi har i dagligtalen
+Det finnes også flere typer
+Kjemoreseptorer
+Mekanoreseptorer
+Fotoreseptorer
+Termoreseptorer
+Smertereseptorer
+Sansene våre går igjennom tre stadier
+Omdanning
+Koding
+Tolkning
+Omdanning
+Først får sansecellen en påvirkning som leder til å åpne ionekanaler
+Ionene strømmer inn og det lager et aksjonspotensial
+Koding
+Sansecellene danner synapse med sensoriske nerveceller, som tar med seg aksjonspotensialet videre gjennom nervesystemet
+Kodingen ligger i frekvensen på aksjonspotensialene
+Tolkning
+Oppfattelsen av de ulike sanseuttrykkene blir styrt av hvor i hjernen aksjonspotensialene ender
+
+Hørselssansen
+Ørets oppbygning
+Ytre øret
+Øremusling
+Øregangen
+Disse fanger opp lydbølger og leder dem innover mot trommehinnen
+Mellomøret
+Trommehinnen danner overgangen til mellomøret
+Tromme hinnen er en tynn membran som blir satt i vibrasjon av lydbølger
+Vibrasjonene overføres til det indreøret ved hjelp fra tre små øreknokler
+Hammer
+Ambolt
+Stigbøyle
+Hammeren er festet til trommehinnen og overfører vibrasjonene til ambolten og stigbøylen
+Deres oppgave er å forsterke bølgene
+Øretrompeten er en luftkanal som ender i munnen
+Den er der for å jevne ut trykkforskjeller
+Indreøret
+I det indre øret ligger det væskefylte sneglehuset
+Det er derfor bølgene må forsterkes
+Det indre øret er innkapslet i bein, men har to membraner, det ovale vinduet og det runde vinduet
+Stigbøylen er forankret i det ovale vinduet, og det er sånn svingningene blir overført til det indre øret
+Sneglehuset består av 3 parallelle kanaler som er vridd som et sneglehus
+Den midtre og den nederste er skilt via basiliarmembranen
+Det er i basiliarmembranen at de lydfølsomme sansecellene sitter
+Sansecellene har en bunt med tynne og stive sansehår
+De er kalt hårceller
+Det er en mekanoreseptor, som blir stimulert av strekk
+Over ligger det en dekkmembran
+Hårcellene danner synapse med sensoriske nerveceller, som går videre til SNS
+Muskler
+Skjellettmuskler
+En skjellettmuskel består av mange muskelceller som har et velutviklet celleskjellet
+Celleskjellettet består av mange trådformede proteiner
+En muskelsammentrekning starter i storhjernen med et aksjonspotensial til en motorisk nervecelle
+Deretter går aksjonspotensialet gjennom motoriske nervecellen som danner en synapse med muskelcellen
+I synapsen diffunderer det acetylkolin over, som danner et aksjonspotensial med muskelcellen
+Dette aksjonspotensialet sprer seg over hele muskelcellen og slipper fri Ca+ fra lagrene sine
+Ca+ stimulerer så celleskjellettproteinene til å klatre på hverandre og danne en sammentrekning
+Da kan muskelen gjør et arbeid
+Kraften bestemmes av hvor mange muskelceller som blir aktivert
+Skal kroppen løfte noe som den vet er lett, aktiverer den ikke alle muskelcellene
+En motorisk nervecelle kan ha kontakt med alt fra noen få til mange tusen muskelceller
+To måter å få mer kraft på
+Flere nerveceller som sender aksjonspotensialer
+En nervecelle som sender flere signaler
+Antall muskelceller i musklene er konstant, så når vi trener opp musklene, danner vi mer celleskjellettprotein
+Styrke krever mer celleskjellettprotein
+Utholdenhet krever flere mitokondrier
+Glatte muskler og hjerte muskler
+Her blir musklene styrt av det autonome nervesystemet
+Vi har ingen kontroll over disse musklene
+De er eks magesekk, tarmkanal, urinblære, blodårer og hjertet
+
+Hormonsystemet
+Hormonsystemet er det <<trege>> signalsystemet i kroppen vår
+De fleste hormoner blir laget i kjertler
+Feks
+hypofysen
+Skjoldkjertelen
+Binyrene
+Bukspyttkjertelen
+Testikler/eggstokker
+Hormonsystemet bruker blodårene som transport vei
+De blir delt inn i to grupper
+Vannløselige
+Fettløselige
+Vannløselige hormoner løses i vann
+De blir sendt fritt i blodet til de cellene de skal til
+Når de er ved målcellene, blir det forbundet til en reseptor i cellemembranen
+Fettløselige hormoner er fettløselige
+De blir pakket inn når de skal bli sendt gjennom blodårene
+De kan gå rett igjennom cellemembranen, og har derfor reseptorene i målcellene på innsiden av cellene
+De vannløselige blir som oftest lagret i de hormonproduserende cellene som har produsert dem
+Mens de fettløselige blir laget når de skal brukes, fordi det er vanskelig å oppbevare dem når de bare kan diffundere ut av cellene
+Et hormon blir sendt til alle cellene i kroppen, men det er bare de cellene som skal ha hormonet som tar det opp
+Det har også forskjellig virkning på forskjellige steder i kroppen
+Samarbeid mellom hormonsystemet og nervesystemet
+Et eks er adrenalin og noradrenalin
+Når kroppen trenger å yte litt ekstra, sender hjernen et aksjonspotensial gjennom det sympatiske nervesystemet og ned til hjertet
+I synapsen med hjertet slippes det ut nevrotransmitterene noradrenalin som får hjertet til å pumpe fortere og oftere
+Samtidig sendes dette signalet til binyrene, som trigger en respons ved å slippe ut hormonet adrenalin ut i blodet
+Adrenalin er også med på å øke aktiviteten til hjerte
+Transport i menneske
+
+Sirkulasjonssystem
+Viktigst med SS (Transporterer):
+Nærings- og avfallsstoffer
+O2 og CO2
+Varme
+Hormoner
+Stopper blødninger
+Beskytte mot infeksjon
+Kretsløp:
+Dobbelt, lukket (veldig effektivt)
+Lik med de fleste pattedyr
+D,L Pga stor stoffomsetning
+Består av:
+Hjerte
+Arterier (ut av hjertet)
+Aterioler
+Kapillærer
+Venoler
+Vener (inn til hjertet)
+Blodets vei
+Gjennom hovedvenen (vena cava) kommer oksygen fattig blod inn i HF
+Blodet går ned i HH og blir trykket opp og ut av hjertet
+Det befinner seg nå i lungearterien
+Ved lungene tar slipper det ut CO2 og tar opp O2
+Så går det gjennom lungevene og ned i VF
+Så videre til VH og ut gjennom aortaen (hoved arterie)
+Og deretter ut i kroppen
+Hjertet
+Fire kammere: HF, HH, VF og VH
+Vegg mellom kammerene 
+Klaffer mellom forkammer og hjertekammer, for at ikke blodet skal gå feil vei
+Forskjellig trykk i kammerene
+VH har høyere trykk enn HH, fordi det skal sende blodet langt
+HH har også lavt trykk for at det ikke skal komme for mye væske i lungene
+Hjertetcellene får blod fra kransarterien, som kommer ut fra aortaen
+Hjertet musklene trekker seg sammen = hjertet banker
+Banker på egenhånd pga spesialiserte muskelceller
+Ligger i sinus knuten
+Membranpotensialet går sakte gradvis opp hele tiden
+Når de når terskelverdien sendes det et aksjonspotensial gjennom ledningsnettet i hjertet til alle muskelcellene så de trekker seg sammen
+Regulering
+Styrer som regel seg selv (slår selv utenfor kroppen)
+Kan bli påvirket av adrenalin og noradrenalin og acetylkolin
+Aksjonspotensial fra hjernen, gjennom sympatiske nervesystemet, løser ut noradrenalin og hjertet får økt aktivitet
+Aksjonspotensial fra hjernen til binyrene og adrenalin slippes løs i blodet og hjerteaktiviteten øker
+Dette skjer fordi sinusknuten blir stimulert til å sende elektriske signaler oftere
+Hjertefrekvensen øker og økt slagvolum
+Minuttvolum = Hjertefrekvens * Slagvolum
+Aksjonspotensial fra parasympatiske nervesystemet og acetylkolin blir sluppet ut og sinusknuten blir stimulert til å sende færre aksjonspotensialer
+Blodstrøm kan også reguleres av andre faktorer
+Det er glattemuskler i veggene på arteriolene som slapper av ved økt parasympatisk aktivitet og lokale faktorer som lite O2
+Blodårene utvides
+Disse glattmusklene trekkes sammen ved økt sympatisk aktivitet og adrenalin
+Blodårene trekkes sammen
+Lymfesystem
+En del av sirkulasjonssystemet
+Tar imot overskuddsvæske fra kapillærene
+Utstyrt med klaffer for enveistransport
+Går innom lymfeknuter, milt, tonsiller og mandler
+Inneholder mye hvite blodceller
+Sykdommer i sirkulasjonssystemet
+Åreforkalkning
+Kroppen prøver å reparere arterieveggene
+Skadene kan komme fra ytre slag, for høyt blodtrykk eller en betennelse
+Reparasjon går ut av kontroll, fett, kolesterol, kalk og immunceller klumper seg sammen
+Blodåreveggen blir tykkere og stivere og den påvirker blodstrømmen
+Hjerteinfarkt
+Åreforkalkning løsner og følger blodstrømmen og kan tette igjen der blodåren blir mindre
+Når dette skjer i kransarteriene blir det et hjerteinfarkt
+Hjerneinfarkt
+Samme prinsipp som hjerteinfarkt, men skjer i blodårer i hjernen
+Kalles slag
+Blodåre oppbygning
+Arterier
+Bindevev og elastiske fibre ytterst
+Så glattmuskler
+Vener
+Samme oppbygning som arterier, bare mindre
+Kapillærer
+
+Respirasjonssystem
+Respirasjonssystemet sørger for gassutvikling i kroppen
+Mennesker bruker lungesystem
+Katalyse for H2O og CO2 reaksjon: Karbonsyreanhydrase
+Oppbygning
+Nesehulen og munnhulen
+Svelget
+Strupehodet
+Luftrør
+Luftrørforgreininger
+Lunger
+Luftrør
+Vegger av brusk for å være faste
+Luften deler seg i to og går til hver sin lunge
+Luftrørforgreininger
+Forgreinger seg til bronkier
+Bruskmengde avtar gradvis med størrelsen til forgreiningene
+Blir bronkioler når det ikke er mer brusk i veggene
+Har celler med cilier og andre celler med slim
+Kan fjerne partikler vi ikke vil ha med disse cellene eller ved å svelge dem
+Cilier dytter slimet mot svelget
+Etter bronkioler kommer lungeblærer/alveoler
+Det er i lungeblærene at oksygen og karbondioksid diffunderer over til blodstrømmen
+Brystkasse
+Lungene sitter i brysthulen
+Rundt sitter ribbeina
+Mellom ribbeina og brystbeinet ligger det skjellettmuskler
+Under lungene ligger mellomgulvet (skjellettmuskel
+Tilsammen heter musklene <<respirasjonsmusklene>>
+Innånding og utånding
+Mellomgulvet trekkes sammen (ned) og lungene er festet til muskelen så de følger med
+Dette skaper et undertrykk i lungene, derfor blir luft trukket inn i lungene
+Når mellomgulvet slippes, dytter den på lungene
+Volumet i lungene blir mindre og trykket øker
+Luften blir presset ut
+Gassutveksling mellom blodåresystem og respirasjonssystem
+Oksygen kommer inn gjennom munnhulen/nesehulen
+Går ned i lungene
+Ned i lungeblærene
+Lungeblærene består av et tynt lag med celler
+Diffunderer over i blodstrømmen
+O2 festes på hemoglobin, via jern (Fe2+)
+Hemoglobin har fire jern festet til seg, så hvert hemoglobin molekyl kan ta opp fire O2 molekyler
+Hemoglobin fraktes gjennom blodet til cellene som trenger oksygen
+Her blir oksygen kastet av og det diffunderer ut av kapillæråren og inn i cellen
+Samtidig diffunderer CO2 ut av cellen og inn i blodåren
+CO2 reagerer med vann i blodet og danner karbonsyre (H2CO3)
+Pga likevekt vil noen reagere tilbake og havne i midten, som HCO3-
+H+ fester seg på hemoglobin
+Bikarbonat (HCO3-) og hemoglobin blir med blodstrømmen til lungene igjen
+Her reagerer HCO3 med H+ ionet som var med hemoglobin og danner CO2 og H2O
+CO2 diffunderer ut av blodet og inn i lungeblæren
+Hemoglobin er nå fri til å ta opp et nytt O2 molekyl
+Hemoglobin har til en hver tid flere O2 molekyler bundet til seg
+Når den slipper av O2, slipper den bare av ¼ av O2 molekylene
+Under spesielle omstendigheter kan den slippe av fler, som f eks under høy aktivitet eller liten tilgang på oksygen
+Luften består av ca. 21% oksygen, og luften vi puster ut består av ca 16% oksygen
+CO er en livsfarlig gass fordi den fester seg 300 ganger sterkere til hemoglobin og tar derfor plassen til oksygen molekylet
+Regulering av pust
+Respirasjonsmusklene har ikke egenaktivitet slik hjertemusklene har
+Får aksjonspotensialer fra hjernestammen og videre til skjellettmusklene i respirasjonssystemet
+Hjernestammen er også koblet til storhjernen, og det er derfor vi kan overstyre hjernestammen og holdepusten
+Stor aktivitet i cellene gir økt CO2 i blodet og minket O2 i blodet
+Økt aktivitet i sansecellene som registrer CO2 og i sansecellene som registrer O2
+Respirasjonssenter i hjernestammen samordner informasjonen
+Økt aktivitet i motoriske nerveceller til respirasjonsmusklene
+Puster oftere og kraftigere
+Hoved oppgaven med innånding og utånding er å holde konsentrasjonen av CO2, O2 og H+ så konstant som mulig
+Sykdommer i luftveiene
+Astma
+Kronisk betennelsestilstand i luftveiene
+Fører til tung pust eller hosteanfall
+Slimhinnene er supersensitive og betennelse utløses raskt og ofte
+KOLS (Kronisk Obstruktiv Luftveis Sykdommer
+Kronisk bronkitt
+Ofte betennelse i luftveiene og får slimansamling
+Lungeemfysem
+Glatte muskelcellelaget rundt luftveiene vokser seg tykt
+Luftveiene blir derfor snevret inn
+Urinveissystemet
+Viktige funksjoner
+Stabilisere ionekonsentrasjoner i vevsvæsken og blodplasmaet
+Fjerne avfallsstoffer og fremmede stoffer fra blodet
+Regulere volumet av kroppsvæske
+Bidra til syre-base konsentrasjonen i blodet
+Oppbygning
+Nyrer
+Nyrebark
+Nyremarg
+Nyrebekken
+Urinleder
+Nefron
+Urinblære
+Urinrør
+Urinutskillelse
+Blodårene blir samlet som et kapillærnøste (som en ball inni hanske) i kapselen på nefronet
+Første steg er filtrasjon
+Her blir alt bortsett fra blodceller og store proteiner overført til nefronet
+Stoffet kalles preurin
+Det er mye som ikke kan skilles ut her
+Derfor starter det en tilbaketransport (reabsorpsjon)
+Her blir det meste transportert tilbake til blodårene utenom avfallsstoffet urea
+Urea er stoffet kroppen lager for å gjøre ammoniakk mindre skadelig
+Ammoniakk er et avfallsstoff fra proteiner og andre nitrogen molekyler
+Kanalsystemet har bare et cellelag og er utstyrt med mange bærerproteiner
+Etter reabsorpsjonen skjer det en sekresjon
+I sekresjonen blir stoffer som ikke kunne skilles ut ved første runde tatt opp
+Eks på dette er fettstoffer som er bundet til store proteiner, som senere er sluppet løs og blir tatt opp av sekresjon
+Sekresjon hjelper også til med regelasjon av ioner som K+ og H+
+For mye K+ kan forstyrre nervesignalene og for mye H+ kan endre pH balansen i blodet
+Disse første delene blir tilsammen kalt proximalt tubulus
+Etter proximalt tubulus kommer henles sløyfe
+Henles sløyfe er delt i to deler, en ned og en opp
+Nedstigende:
+Nefronen er tett for ioner og åpen for vann til å diffundere ut
+Dette øker konsentrasjonen av urea i nefronet og volumet minker
+Oppadstigende
+Tett for vann og åpen for ioner
+Delt inn i to deler
+Første del diffunderer det ioner ut
+Andre del blir det pumpet ioner ut ved aktiv transport
+Dette gjør at osmolariteten avtar
+Dette gjør at det kan bli reabsorpsjon og sekresjon i den nesten delen, distalt tubulus
+Reabsorpsjonen og sekresjonen er delvis regulerbar og er der for å regulere pH og ionebalansen
+HCO3 kan reabsorberes og H+ kan sekreteres
+Samlekanalen kommer som neste
+Her er vann regulerbart gjennomtrengelig
+Det blir styrt i hjernen etter hvor høy osmolariteten er
+I hypotalamus har vi osmoreseptorer
+Når osmolariteten er høy, produeres det ADH-hormoent i hypotalamus og skilles ut fra hypofysens baklapp
+Denne binder seg til reseptorer i cellemembranen til cellene i samlekanalen
+Cellen slipper da vesikkeler med akvaporiner ut av cellen, og vann har en kanal å gå igjennom
+Kroppen kan da ta opp mer av vannet, i steden for å skille det ut via urinrøret
+Hvis osmolariteten er lav, vil mindre ADH bli sendt ut
+
+
+
+
+Transport i dyr
+
+Fisk
+Sirkulasjonssystem
+Enkelt, lukket
+To hjertekammere (FK, HK)
+Blodet fyller FK før det fyller HK
+Blodet blir så sendt til gjellene
+Etter gjellene går det videre til organer i kroppen
+Siden det ikke går igjennom hjerte en andre gang, har blodet lite trykk etter gjellene
+Dette gjør at blodet går saktere og blodet bruker lengere tid på å nå cellene
+Siden cellene ikke får mye oksygen på kort tid, blir det vanskelig å forbrenne noe for å holde varmen
+Det er derfor fisk er vekselvarme dyr
+Vekselvarme dyr er dyr som er samme temperatur som omgivelsene
+Respirasjonssystem
+Fisker lever under vann og bruker derfor gjeller for gassutveksling
+Gjeller er utvendig gassutveksling og er laget for våte omgivelser
+På land ville gjellene tørket ut
+Gjellene fungerer med at fiskene sluker vann gjennom munnhulen og siler vannet ut gjennom gjellene
+For å ta opp oksygen bruker den motstrøms prinsippet
+Motstrøms prinsippet
+Vann og blod går motsatt vei av hverandre
+Vann har mye oksygen, mens blod har lite
+Siden det er mer oksygen i vann enn i blod diffunderer det oksygen over i blodet
+Poenget med at det skal gå motsatt vei er at da vil det alltid være mer oksygen i vannet enn i blodet
+Oksygenrikt vann vil være på linje med oksygenrikt blod, derfor vil det diffundere, fordi vann alltid vil ha mer oksygen enn blod
+Oksygenfattig vann vil være på linje med oksygenfattig blod
+Hvis det er 90% i OR (oksygenrikt) vann og 50% i OF (oksygenfattig) vann, vil det OF blodet som har nærmere 10% være på linje med OF vann som har 50% derfor vil det diffundere
+Men oksygennivået i blodet stiger langs strømmen, vil den også strømme mot det oksygenrike vannet og derfor vil det alltid være nok oksygen i vannet i forhold til blodet til at det diffunderer
+Ekskresjonssystemet
+Fisker har litt forskjellig ekskresjon etter hva slags levevis de har
+Det er lett for dem å skille ut nitrogenholdig avfall fordi de er i vann hele tiden
+Et større problem for fisk er å holde på vann og salter
+Saltvannsfisk
+Skiller ut lite urin gjennom nyrene
+Kan skille ut ammoniakk gjennom gjellene
+Tar opp næring pluss saltvann gjennom munnen
+Skiller salter og vann ut gjennom gjeller
+Ferskvannsfisk
+Skiller ut fortynnet urin gjennom nyrene
+Kan skille ut ammoniakk gjennom gjellene
+Tar kun opp næring gjennom munnen
+Tar opp salter og vann gjennom gjellene
+Insekt
+Sirkulasjonssystem
+Enkelt, åpent system
+Har hjerte i bakkroppen
+Har flere hjerter hvis insektet har vinger (hjertene er da plassert ved vingene, for å gi blodet et ekstra trykk
+Fra hjertet i bakkroppen følger blodet en hovedåre inn i midtkroppen
+Her går blodet over i et åpent system
+Det går rett ut i den ekstracellulære væsken
+Herfra sprer den seg sakte til alle cellene
+Insekter har de vanlig funksjonene knyttet til blodåresystemet, bortsett fra gassutveksling
+Respirasjonssystem
+Insekter har trakeésystemer
+Dette er hulrom som går igjennom insektet
+Insekter med vinger for eks krever mye oksygen, siden vingemusklene brukes mye og ofte
+Trakeesystemet er et veldig effektivt system
+Det har noe som heter blåsebelger, som er som en ballong med to muskler på hver side
+Disse musklene trekkes sammen og det skaper et trykk i trakeet som gjør at gassen blir sendt kjappere av gårde
+Trakeesystemet ender bare i en blindvei, som er væskefylt
+Her diffunderer gassen over til cellene
+Insekter har også mange forskjellig typer respirasjonssystemer
+Noen har trakeegjeller, hvis de lever under vann
+Noen henter oksygen fra overflaten
+Ekskresjonssystem
+Består av et rør (malpighiske rør)
+Gjør om avfallsstoffene til urinsyre
+Urinsyre er et ikke-giftig stoff og egner seg bra for organismer med lite tilgang på vann
+Urinsyren blir skilt ut sammen med avføring, via anus
+Vannlevende innsekter skiller ut ammoniakk
+Leddorm
+Sirkulasjonssystem
+Enkelt, lukket system
+Leddormen har ryggåre og bukåre
+Ryggåren fungerer som hjerte og pumper blodet
+Klaffer i årene så blodet går riktig vei
+Tverrforbindelser i hvert ledd, som binder ryggåre og bukåre sammen
+Respirasjonssystem
+Gassutvikling gjennom huden
+Må gjøre det om til væske før det kan diffundere over
+Slimkjertler i huden sørger for dette
+Leddormer som lever under vann har utviklet gjeller, pga lite oksygen
+Ekskresjonssystem
+Skiller ut nitrogenavfall gjennom egne forgreinede kanaler
+Kalles nefridier
+Finnes i hvert kroppsledd og kledd med cilier
+Formering
+Ytre befruktning
+Egg blir befruktet utenfor organismen
+Eks: Fisk legger egg i vannet og en annen fisk spruter sæden sin ut i vannet
+Indre befruktning
+Egg blir befruktet på innsiden av organismen
+Krever at det andre kjønnet har en penis lignende organ ved kjønnet formering
+Eks: Pattedyr
+Ytre fosterutvikling
+Foster
+Indre fosterutvikling
+Fosteret utvikles på innsiden av organismen
+Kjønnet
+Kalles meiose
+Celler for kjønnet-formering kalles gameter
+Kalles også haploid (n)
+Halvparten av kromosomene som diploide (2n) celler har
+Diploidcelle dobler kromosomene
+Cellen deles med homologe (like) kromosomer i hver celle
+Eks 2 rød til venstre og 2 blå til høyre
+Ukjønnet
+Kalles mitose
+Mitotisk celledeling (vekstdeling, V!)
+Cellene har et par av hvert kromosom og er diploide (2n) (en blå, en rosa)
+Kromosomene dobler seg til to søster kromatider (to blå, to rosa)
+Søster kromatidene deler seg og vi får to identiske celler (en blå og en rosa per celle)
+
+Pattedyr
+Formering skjer ved kjønnet formering
+Det er en hann, med sædceller og en hunn med egg
+Egget blir befruktet via indre befruktning
+Når zygoten er dannet vokser den på innsiden av moren
+I tidlige stadier ligner egget på fugler og krypdyr
+Egget er bygget opp med fosteret innerst med en fosterhinne rundt
+Så en liten plommesekk og navlestreng til morkaken
+Årehinne rundt der igjen og så en morkake
+
+
+Transport i planter
+Oppbygningen av planter
+Blomst (formering)
+Stilk/stengel (Avstiving, strekking mot solen, transport)
+Blad (gassutveksling, fotosyntese)
+Rot (Opptak av næringsstoffer og vann, anker)
+Rot
+Oppbygning
+Rothår
+Epidermis
+Bark
+Endodermis og casparysk bånd
+Sentralsylinder
+Transport
+Bruker aktiv transport til å pumpe inn de ionene den trenger
+Vannet følger etter ved osmose
+Ionene diffunderer gjennom cytosolen i flere celler
+Blir aktivt transportert gjennom endodermis til sentralsylinderen
+Vann følger etter via osmose, frem til casparyske bånd
+Det casparyske båndet er et vokslag som blokkerer for vannet så det må igjennom cellene for å komme til sentralsylinderen og videre opp i planten
+Dette gjør at planten kan styre opptaket av vann bedre
+Dette skaper også et rottrykk som hjelper til å presse vann opp gjennom vedvevet
+Symbiose
+Planter danner ofte symbiose med sopp og bakterier
+Soppen: Mykorrhiza
+Dette er fordi det tar lang tid og mye energi å skille de næringsstoffene roten skal ha
+Prosessen forenkles med å samarbeide med andre organismer som sopp og bakterie
+Planten gir soppen næring gjennom glukose og enkelte aminosyrer
+Soppen og bakteriene bidrar med mineraler og beskyttelse mot andre bakterier og sopp
+Soppen kan danne to typer symbioser
+Ektomykorrhiza
+Danner hyfer rundt og mellom rotcellene
+Endomykorrhiza
+Danner hyfer rundt, mellom og inni rotcellene
+Stengel/stilk
+Stengelen er bygd opp av silvev og vevdvev
+Vedvev
+Består av vedrør og trakeider
+Vedrør er døde celler, uten cellevegg i endene så de danner et rør
+De har derfor ikke organeller
+Dette gjør det mulig for effektiv transport av vann
+Trakeider
+Tilspissede, hule celler
+Lukket i begge ender
+Med porer i veggene
+Silvev
+Silrørceller er levende celler uten noe særlig organeller
+De er langstrakte celler
+Silplate i begge ender
+Sitter sammen med følgescelle
+Frakter næringsstoffer som glukose
+Følgecelle
+En fullstendig celle med alle organeller i behold
+Sitter sammen med silrørcellene
+Er bundet til silrørcellene med plasmodesmata
+Disse vevene danner et mønster i stilken
+Dette mønsteret kan vi se under et mikroskop
+Systematisk sirkel med vedvev innerst og silvev ytterst er tofrøet plante
+Mer uorganisert er enfrøet plante
+Transporten av vann fungerer på den måten at spalteåpningen i bladet, slipper ut vann i dampform
+Dette skaper et undertrykk i vedvevet som trekker på vannet
+Samtidig faller ikke vannet ned igjen fordi hydrogenbindingene i vann er så sterke
+Hydrogenbindingene fester dem sterkt til andre vannmolekyler (kohesjon)
+Hydrogenbindingene dannes også mellom vannmolekylene og cellulosen i celleveggen (adhesjon) og på denne måten faller ikke vannet ned igjen med tyngdekraften
+Rottrykket hjelper også til å dytte vannet oppover
+Blader/gassutveksling
+Oppbygning
+Hudvev (øverst) har kutikula på utsiden for å isolere mot vann og bakterier
+Palisadevev (kloroplast)
+Ledningsvev (for å sende næringsstoffer ut av bladet)
+Svampvev (luftrom mellom cellene)
+Underhud (her spalteåpningen ligger)
+Gassutveksling
+Blader brukes til gassutveksling og fotosyntese
+Fotosyntesen skjer i klorofyllet i kloroplastene
+Her blir sollys omgjort til kjemisk energi
+For denne prosessen trenger den CO2 og må derfor ta inn CO2
+Dette skjer gjennom spalteåpningen på undersiden av bladet (noen vannplanter har spalteåpning på oversiden)
+Spalteåpningen åpnes gjerne om dagen for det er da fotosyntesen er i gang
+Når CO2 diffunderer inn, diffunderer også O2 ut og det er det som skaper transpirasjonen som hjelper vanntransporten i vedvevet
+Spalteåpningen er laget slik at det er to celler som ligger sammen
+De har en avstivet vegg mot hverandre og ikke avstivet på den andre siden
+Den aktivt trekker inn Na+ ioner på natten så vann skal diffundere inn ved osmose og cellene svulmer opp
+Dette gjør at de myke sidene blir runde og de avstivete veggene følger etter og skaper en åpning mellom seg
+På dagen vil den aktivt dytte ut Na+ for at vannet skal følge etter og trykket senkes, spalteåpningen lukkes
+Formering av planter
+Alger (Tarmgrønske)
+En sporofytt (2n) utfører meiose og lager haploide celler, altså sporer (n) (R!)
+Sporene (n) utvikler seg til gametofytt (+) eller gametofytt (+)
+Disse utfører hver sin mitose (vekstdeling) og får gameter (+) og gameter (-)
+Gametene parer seg og lager zygote (2n) som igjen utvikler seg til sporofytt (2n)
+Sporofytt og gametofytt er helt like i utseende
+Forskjellen er at den ene har dobbelt med kromosomer
+Dette kalles isomorf genrasjonsutveksling
+Karsporeplanter (Bregne - sisselrot)
+Sisselroten (2n) har sporehus på undersiden av bladene sine
+Inne i sporehuset foregår det meiose, og haploide sporer (n) blir dannet
+De vokser i det øverste jordlaget, hvor de blir til gametofytt (n)
+Gametofytten i sisselrot er hermafroditt og produsere derfor både mannlige og kvinnelige gameter (n)
+Arkegon (n) – egg
+Antheridium (n) – sædceller
+Sædcellene svømmer over til arkegonen og befrukter egget, men dette krever at det er vann cellene kan svømme i
+Deretter blir det dannet en zygote (2n) som videre blir til ny sporofytt (2n)
+Frøplanter
+Største forskjellen: blomst og frø
+Basis organer:
+Begerblader
+Kronblader
+Pollenbærer
+Pollentråd
+Pollenknapp
+Fruktemnet
+Arr
+Griffel
+Fruktknute
+Frøemnet
+Et pollenkorn er det som blir til den hannlige gametofytten
+Blir laget i pollenknappene
+Den inneholder to sædceller og pollenslangekjerne
+Den hunnlige gametofytten er fruktemnet
+Det består av et arr, griffel og frøemne nederst i fruktknuten
+Når den hunnlige delen skal befruktes, må et pollenkorn lande på arret, hvor pollenslangen så vokser ned i griffelen og sædcellene kan befrukte frøemnet
+Nakenfrøede planter
+Nakenfrøede planter har ikke tildekket frøemner
+Eks Furu:
+Den danner kongler som inneholder frøemnene
+Hannene ligger som oftest nederst på treet og hunnene øverst
+Når frøemnene og pollen modnes, åpnes konglebladene så vinden kan få tak i dem
+Frø har en liten vinge, mens pollen har luftsekker
+Når sporene (n) blåsers ut, må de treffe frømunningen på en hunnelige gametofytten
+Så dannes det et embryo (2n) som blir til frøspiring og videre til en ny furu
+Dekkførede planter
+Skjer som beskrevet over nakenfrøede
+Det dannes åtte haploide celler, 3 bak, 2 i midten og 3 framme
+De to cellene i midten, slår seg sammen og danner en diploidcelle som er sentralkjernen
+De tre cellene bak, vet vi ikke hva gjør
+De to foran på sidene er hjelpeceller og den i midten er eggcelle
+Det skjer så en dobbelbefruktning
+Zygote (2n) eggcelle og sædcelle
+Sentralkjernen (3n) en diploidcelle og sædcelle (triploid) (endosperm)
+Endospermet er opplagsnæringen til frøet
+Frøemnet blir så til et frø som inneholder planteembryo og opplagsnæring
+Fruktemnet blir så til en frukt
+Bevegelse hos planter
+Tropisme
+Vekstreaksjon, bestemt retning
+Et bestemt forhold mellom respons og kilden som påvirker
+Et eks er fototropisme
+Fototropisme er bevegelse mot lys
+Det dannes mer av hormonet auxin på skyggesiden av planten
+Dette gjør at den siden vokser mer en den andre siden som får lys
+Og dermed vil planten bøye seg mot lyset
+Et annet eks er geotropisme
+Hvor roten vokser med tyngdekraften
+Thigmotropisme er planter som klatrer langs husvegg, og slynger seg rundt annet
+Her er det berøring som er kilde til påvirkning
+Redusert lengde vekst på den siden uten berøring og derfor slynger den seg rundt gjenstander
+Nastier
+Vekstbevegelse som ikke har noen retning
+Denne er også reversibel
+Ikke bestemt forhold mellom respons og kilde til påvirkning
+Eks på fotonastier
+Åpner seg tidlig om morgenen
+Andre midt på dagen
+Noen endrer posisjon i løpet av dagen
+Thigmonasti er utløst av berøring og brukes som oftest av venusfellen
+Når et insekt treffer kjertelhårene på innsiden av bladene, lukkes planten, og den slipper ut enzymer som bryter ned insektet
+
+
+Bakterier og Virus
+
+Bakterier
+Prokaryote celler
+Alltid encellede
+Bakterier som gir sykdom = patogene
+Oppbygging
+Sirkulært kromosom (DNA) (ligger fritt i cytosol)
+Plasmid (ekstra DNA)
+Ribosom (proteiner fritt i cytosol, ingen merking)
+Fimbrier (feste seg til substanser)
+Cellemembran (Fosfolipider, proteiner, karbo)
+Ytermembran/Cellevegg
+Peptidoglykan (korte proteiner bundet til karbs)
+Grampositiv
+Tykk cellevegg, store mengder peptidoglykaner
+Gramnegative
+Tynn cellevegg, lite peptidoglykaner
+Yttermembran av lipider bundet til polysakkarider
+Pilus (Konjugasjon)
+Mulig flagell
+Energi
+Fototrofe – får energi fra lys, fargepigmenter i cellemembran
+Kjemoautotrofe – bryter ned uorganiske substanser som H2S og NH3
+Heterotrofe – bryter ned og omdanner proteiner, karbs og fett
+Formering
+Hvert 20. Minutt
+Binær Fisjon
+Ukjønnet formering hos bakterier
+Kromosomet deler seg, cellemembranen vokser innover til den deler seg og da har man to identiske datterceller
+Overføring av DNA
+Bakterier har muligheten til å overføre DNA fra en til en annen. Bakteriens kjønnet-formering.
+Konjugasjon
+Vokser ut en sexpilus av den ene bakterien
+Bruker dette til å trekke til seg en annen bakterie og danne en kanal
+Plasmidet blir overført
+Flere plasmider kan bli overført over tid
+Skjer kun en vei
+Transduksjon
+Overføring av DNA ved hjelp fra virus
+Viruset angriper bakterien og tar med seg litt DNA til neste den angriper
+Ikke begrenset til art eller slekt
+Transformasjon
+Tar opp fritt DNA fra omgivelsene
+DNA kan stamme fra hvilken som helst prokaryote
+Overlevelse og Nytte
+Kan overleve ved å bli til en bakteriespore
+Tåler ekstrem varme, kulde, tørke, lys
+Bruker nesten ikke ATP
+Tykke vegger = motstandsdyktige
+Viktige i naturen fordi de bryter ned døde organismer og dermed frigjør stoffer som kan brukes på nytt av andre
+Brukes i genmodifisering
+Tar ut plasmid
+Putter ønsket gen inn i plasmid
+Putter plasmid inn i bakterie
+Bakterien formerer seg og produserer genet
+Eks: insulin
+Bekjempelse av bakterier
+Hygiene
+Antibiotika
+Farlig med for mye, bakteriene blir resistente
+Vaksiner
+Funker ikke hvis under 90% bruker vaksinene
+Enkelte kan ikke ta vaksine, viktigere at de som kan gjør det
+Virus
+Debatt om død eller levende
+Må ha levende organisme for å leve
+Kan ikke produsere eller kopiere seg selv
+Har arvestoff
+Virker levende når den angriper
+Typer:
+Plantevirus
+Dyrevirus
+Bakteriofager
+Oppbygning
+Arvestoff i midten
+Kan være enkelttrådet RNA eller DNA
+Kan være dobbelttrådet RNA eller DNA
+Noen kan være nede i kun fire gener, andre kan være opptil over tusen
+Proteinkappe
+Lipidlag
+Festeanordninger
+Glykoprotein
+Formering
+Måten virus formerer seg på er å kapre en celle
+Her overtar den cellen og bruker organellene i cellen til å produsere sine egne proteiner. 
+Den produserer arvestoffet sitt og proteiner til proteinkappen og når den har laget mange nok sprekker cellen og de nye virusene er sluppet fri
+En annen måte den kan kopiere seg selv på er at den legger DNAet sitt inn i DNA til cellen
+Deretter <<gjemmer>> den seg og venter på at cellen skal kopiere seg selv og da kopiere viruset i prosessen
+
+Immunforsvaret
+
+Immunforsvaret er forsvaret vårt mot inntrengere som f eks bakterier, virus og annet som kan skade oss. Immunforsvaret er delt inn i to forskjellige grupper, det uspesifikke forsvaret og det spesifikke forsvaret. Deretter er det delt inn i flere undergrupper.
+
+Det uspesifikke forsvaret
+Det uspesifikke forsvaret skal stoppe inntrengere i første omgang. Dersom det ikke klarer å utrydde faren, vil de fortsatt hindre dem i å spre og formere seg for mye.
+Det er delt inn i to undergrupper
+Det ytre forsvaret – består av fysiske barrierer
+Hud
+Slimhinner
+Svette og talg kjertler (produserer enzym som ødelegger membranen til bakteriene
+Ufarlige bakterier (beskytter med å konkurrere om plass og ressurser)
+Det indre forsvaret
+Granulocytter – fagocytose og giftstoffer
+Mastceller – Betennelsesreaksjon med histamin
+Makrofager – fagocytose, stor spiser, presenterer antigen til t-hjelpeceller
+Komplementproteiner – Proteiner som aktiveres ved infeksjon, sirkulerer ellers i blodet
+Interferoner – stoffer som skilles ut av celler når de blir infisert av virus for å varsle nabocellene
+Stopper opp nesten alle proteinsynteser, så viruset ikke skal bli produsert
+Det spesifikke forsvaret
+Består av:
+B-Celler (10^12 forskjellige typer)
+Plasmaceller (produserer antistoffer)
+Hukommelsesceller (lagres i kroppen til neste gang)
+T-celler
+Hjelpeceller (aktiverer b-celler)
+Angrepsceller (patruljerer kroppen og inspiserer celler)
+Definisjon av antigen:
+Ingenting i kroppen kan ha samme struktur som antigenet.
+Antistoff
+Stoffer som passer som en puslespillbit med et spesifikt antigen
+Kan ikke drepe bakterien, men uskadeliggjøre det
+<<Fanger>> flere bakterier med flere antistoffer, deretter kan en makrofag <<spise dem>>
+Bakterieangrep i kroppen
+Det uspesifikke forsvaret
+En bakterie kommer inn forbi det ytre forsvaret
+Mastceller (en type granulocytter) er alarmceller og varsler om skade
+Den produserer histamin
+Histamin er et signalstoff som stimulerer arteriolene til å vide seg ut, og det blir sendt mer blod til stedet
+Bredere arterioler fører til mer tilstrømning av blod og de hvite blodcellene kan komme raskere (Økningen i mengde blod, er det som fører til betent område)
+Histamin gjør også at kapillære blodårer blir mer gjennomtrengelige, så de hvite blodcellene og komplementære proteinene kan komme ut i vevsvæsken hvor bakteriene er
+De komplementære proteinene kjenner igjen bakteriene og binder seg til overflaten
+Dette skaper en serie av reaksjoner som kan lede til at cellemembranen blir ødelagt og bakterien sprekker
+Og det gjør at bakterien tiltrekker seg flere hvite blodceller
+Makrofagene spiser så opp bakteriene og restene ved fagocytose
+De spiser også opp cellerester og døde celler
+Det spesifikke forsvaret
+Hvis bakterien kommer seg forbi det uspesifikke må det spesifikke forsvaret tre inn
+Bakterien vil vandre igjennom blodårene og lymfesystemet til den møter den b-cellen med riktig antistoff
+Når dette skjer fester antigenet seg til antistoffet og cellen spiser bakterien
+Dendritiske celler spiser også bakterien og frakter den til lymfeknute, hvor en T-hjelpecelle med riktig antistoff reagerer med antigenet som har blitt plassert på utsiden av den dendritiske cellen
+Dette skaper en vekstdeling av den T-hjelpecellen
+Den T-hjelpecellen kan da reagere med B-cellen som også utstiller dette antigenet på toppen av MHC2
+Det trigger T-hjelpecellen til å produerer cytokin, som får B-cellen til å dele seg til plasmaceller og hukommelses celler
+Plasmacellene produserer antistoff som uskadeliggjør bakteriene
+En makrofag kan så komme og spise bakteriene og antistoffene
+Hukommelsescellene flyter rundt i kroppen så kroppen kan reagere raskere nesten gang en bakterie med samme antigen kommer inn i kroppen
+Virusangrep i kroppen
+Det uspesifikke forsvaret
+Siden virus er mye mindre enn bakterier, kommer de lettere forbi det uspesifikke forsvaret
+Når de angriper, angriper de på innsiden av cellen
+Det cellen gjør er at de slipper ut interferoner til nabocellene
+Interferonene stopper nesten all proteinsyntese i cellen og dermed blir ikke viruset produsert
+Det spesifikke forsvaret
+Det spesifikke forsvaret har T-angrepsceller som tar seg av virus
+Alle celler har MHC1 som de produserer og stiller ut på overflaten
+Når T-angrepscellene går forbi vil de ikke reagere
+Har det kommet et virus i cellen, vil proteinet fra proteinkappen til viruset bli utstilt på MHC1 og T-angrepscellen vil drepe cellen
+T-angrepscellene vil også ta kreftceller, fordi de stiller ut feil protein på MHC1
+De vil også angripe transplanterte organer, fordi disse utstiller et annet protein
+Blodtyping
+Drypper to dråper blod på en glassplate
+Så dryppes antistoffet på blodet
+Hvis antistoff A får blodet til å klumpe opp er det blodtype A
+Hvis antistoff B får blodet til å klumpe opp er det blodtype B
+Hvis begge antistoffene får blodet til å klumpe opp er det blodtype AB
+Hvis ingen klumper opp er det blodtype O
+Beskyttelse mot patogener
+Hygiene
+Såpe
+Behandling av mat
+Varme
+Stråling
+Kjøleskap/fryser
+Saltlake
+Sukker
+Syre
+Tørke
+Kjemisk
+Immunforsvar
+Aktiv
+Naturlig
+Syk
+Kunstig
+Vaksine
+Passiv
+Naturlig
+Morsmelk
+Kunstig
+Serum behandling

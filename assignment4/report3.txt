@@ -1,0 +1,10 @@
+"The advantage of the Numba package is that Numba compiles any python that
+that it can directly to machine code and then stores it as machine code until
+next time you run the function. The disadvantage of using Numba is that it uses
+longer time than Numpy the first time and then it will be faster. Since we have
+such short code, Numba won't pass Numpy unless we loop it a lot of times.
+
+Shape of array: (480, 640, 3)
+Runtime - pythonBlur - 10 loops: 56.62649393081665 s
+Runtime - numpyBlur - 10 loops: 0.38280797004699707 s
+Runtime - numbaBlur - 10 loops: 1.2921857833862305 s

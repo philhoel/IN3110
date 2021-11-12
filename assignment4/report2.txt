@@ -1,0 +1,9 @@
+Numpy is a package for python, written in the C language.
+The difference between a list and a numpy array is that the list is mutable
+and the array is not. This means that python will check all to evaluate what
+type they are, while in the numpy array, you can only use the same type.
+
+Shape of array: (480, 640, 3)
+Runtime - pythonBlur - 10 loops: 56.62649393081665 s
+Runtime - numpyBlur - 10 loops: 0.38280797004699707 s
+Runtime - numbaBlur - 10 loops: 1.2921857833862305 s

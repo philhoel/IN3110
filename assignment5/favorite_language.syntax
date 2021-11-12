@@ -1,0 +1,10 @@
+"#.*include[?=\s]": include
+"<.*[?=>]": include2
+"[^.]for|while|return[?=\s]": keywords
+"[^.][A-Za-z0-9]+[?=\(]": functions
+"//.*[?=\n]": comments
+"[^.]int|void|bool|double[?=\s]": functionwords
+"".*[?=;]": string
+"'.*[?=;]": string
+"[^.]false|true|continue|break[?=\s]": keywords
+"[^.]if|else|throw[?=\s]": keywords

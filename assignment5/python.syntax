@@ -1,0 +1,12 @@
+"[^.]class|for|return|import(?=\s)": keywords
+"[^.]try|except|raise|while|None(?=\s)": keywords
+"[^.]in(?=\s)": keywords
+"def(?=\s)": keywords
+"[^.]and|from|if|else|self|elif(?=\s)": keywords
+"[^.]False|True|continue|break(?=\s)": special
+"[^.][A-Za-z0-9]+(?=\()": functions
+"[^.][\+|\-|\*|\/|\=](?=\s)": operators
+""(?:(?!").)*"": string
+"'(?:(?!').)*'": string
+"#.+(?=\n)": comment
+"@.+(?=\n)": decorators

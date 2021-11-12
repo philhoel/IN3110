@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Help Page</title>
+</head>
+
+<body>
+    <h1>Documentation Page</h1>
+    <hr>
+    {% for doc in posts %}
+        <h2>{{ doc }}</h2>
+        <p>{{ posts[doc] }}</p>
+    {% endfor %}
+
+    <a href="http://127.0.0.1:5000/" >Back</a>
+</body>
+</html>
